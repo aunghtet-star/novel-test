@@ -2,7 +2,7 @@
 
 A modern, visually stunning platform for reading web novels, designed for an immersive and performant user experience.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/aunghtet-star/novel-test)
 
 NovelNest is a visually stunning and modern web application for discovering and reading web novels, inspired by platforms like novelbin.me. The platform is designed with a reader-first approach, prioritizing a clean, immersive, and highly performant reading experience. It features a rich, dark-themed UI with beautiful typography, smooth animations, and an intuitive layout. Users can browse novels by genre, popularity, and latest updates, view detailed information about each novel, and enjoy a customizable reading interface. The entire application is built on Cloudflare's edge network, ensuring lightning-fast load times globally.
 
@@ -75,7 +75,7 @@ This project is configured for easy deployment to the Cloudflare network.
 
 Alternatively, you can deploy directly from your GitHub repository:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/aunghtet-star/novel-test)
 
 ## Project Structure
 
